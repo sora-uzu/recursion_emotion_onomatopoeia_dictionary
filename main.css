@@ -1,0 +1,35 @@
+.bg-red{
+  background-color:red;
+}
+
+.bg-yellow{
+  background-color:yellow;
+}
+
+.bg-beige{
+  background-color:beige;
+}
+.bg-grey{
+  background-color:grey;
+}
+
+.bg-purple{
+  background-color:purple;
+}
+
+.bg-green{
+  background-color:green;
+}
+.bg-orange{
+  background-color:orange;
+}
+
+.big-square{
+  width: 100vw;
+  height: 500px;
+}
+
+.small-square{
+  width: 100vw;
+  height: 500px;
+}
